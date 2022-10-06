@@ -1,2 +1,4 @@
-package pl.qcineq.users;public class User {
+package pl.qcineq.users;
+
+public class User {
 }
